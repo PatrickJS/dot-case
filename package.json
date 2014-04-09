@@ -1,6 +1,6 @@
 {
   "name": "dot-case",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Dot case a string",
   "main": "dot-case.js",
   "scripts": {
